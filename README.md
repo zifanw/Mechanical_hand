@@ -1,4 +1,7 @@
 # Mechanical_hand
+
+See video at Youtube: https://youtu.be/c5DVGtNNG60 
+
 **LCD Display: Display instructions for users** <br />
 *User interface for idle mode and input mode; input mode includes a controllable cursor. <br />
 *Paint triangles, polygons with filling functions <br />
