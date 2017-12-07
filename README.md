@@ -25,3 +25,4 @@ See video at Youtube: https://youtu.be/c5DVGtNNG60
 *	Independent movement for each finger.  <br />
 *	Sequential performance of each character for unidentified words and sentences. <br />
 *(Right now "love" is the word stored only)*
+![alt text](/everything.jpg)
